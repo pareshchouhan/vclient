@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.libvirt:libvirt:0.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.libvirt/libvirt/0.5.1/2245d883ee9a3a3515722fff53c7eeeb76fe3e4d/libvirt-0.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.libvirt/libvirt/0.5.1/4c40fe67009b0c4f771312e6d39b0bc0aab38bf8/libvirt-0.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
