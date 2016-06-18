@@ -13,7 +13,7 @@ public class ServerMain {
         Spark.get("/", (request, response) -> {
             return "Hello world!";
         });
-        System.setProperty("jna.library.path","C:\\Program Files\\VirtViewer v3.1-256\\bin");
+//        System.setProperty("jna.library.path","C:\\Program Files\\VirtViewer v3.1-256\\bin");
 //        System.setProperty("jna.library.path","E:\\JavaProjects\\libs");
 //        System.load("E:\\JavaProjects\\libs\\libvirt.dll");
         Connect conn=null;
